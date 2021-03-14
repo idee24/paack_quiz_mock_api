@@ -1,5 +1,5 @@
 {
-   - deliveries:[
+   "deliveries":[
       {
          "id":1234,
          "address":"Some address",
@@ -14,9 +14,9 @@
          "longitude":4.676453,
          "customer_name":"María Castro"
       }
-   ]
-   
-   - delivery:[
+   ],
+  
+   "delivery":[
       {
          "id":1234,
          "address":"Some address",
@@ -26,10 +26,9 @@
          "requires_signature":false,
          "special_instructions":"blue door, besides the car shop. Deliver to the car shop if necessary"
       }
-   ]
+   ],
    
-   
-   - tracking: {
+   "tracking": {
    "driver_id":554,
    "tracking_data":[
       {
