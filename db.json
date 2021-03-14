@@ -32,31 +32,3 @@
    ]
 }
 
-{
-   "tracking":{
-      "driver_id":554,
-      "tracking_data":[
-         {
-            "latitude":2.334455,
-            "longitude":4.323423,
-            "deliveryId":1234,
-            "battery_level":85,
-            "timestamp":23454645
-         },
-         {
-            "latitude":1.334455,
-            "longitude":2.323423,
-            "deliveryId":1234,
-            "battery_level":92,
-            "timestamp":23454645
-         },
-         {
-            "latitude":4.334455,
-            "longitude":5.323423,
-            "deliveryId":1234,
-            "battery_level":83,
-            "timestamp":23454645
-         }
-      ]
-   }
-}
