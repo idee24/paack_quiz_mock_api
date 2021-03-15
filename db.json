@@ -3,15 +3,15 @@
       {
          "id":1234,
          "address":"Some address",
-         "latitude":2.334455,
-         "longitude":4.323423,
+         "latitude":36.72004797073319,
+         "longitude":-4.442675814285095,
          "customer_name":"Juan Pérez"
       },
       {
          "id":4567,
          "address":"Some other address",
-         "latitude":2.3432167,
-         "longitude":4.676453,
+         "latitude":36.66636600739516,
+         "longitude":-4.463275180587973,
          "customer_name":"María Castro"
       }
    ],
